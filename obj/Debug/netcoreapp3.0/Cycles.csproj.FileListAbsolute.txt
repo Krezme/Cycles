@@ -1,0 +1,11 @@
+D:\Проекти\CMD\Cycles\bin\Debug\netcoreapp3.0\Cycles.exe
+D:\Проекти\CMD\Cycles\bin\Debug\netcoreapp3.0\Cycles.deps.json
+D:\Проекти\CMD\Cycles\bin\Debug\netcoreapp3.0\Cycles.runtimeconfig.json
+D:\Проекти\CMD\Cycles\bin\Debug\netcoreapp3.0\Cycles.runtimeconfig.dev.json
+D:\Проекти\CMD\Cycles\bin\Debug\netcoreapp3.0\Cycles.dll
+D:\Проекти\CMD\Cycles\bin\Debug\netcoreapp3.0\Cycles.pdb
+D:\Проекти\CMD\Cycles\obj\Debug\netcoreapp3.0\Cycles.csprojAssemblyReference.cache
+D:\Проекти\CMD\Cycles\obj\Debug\netcoreapp3.0\Cycles.AssemblyInfoInputs.cache
+D:\Проекти\CMD\Cycles\obj\Debug\netcoreapp3.0\Cycles.AssemblyInfo.cs
+D:\Проекти\CMD\Cycles\obj\Debug\netcoreapp3.0\Cycles.dll
+D:\Проекти\CMD\Cycles\obj\Debug\netcoreapp3.0\Cycles.pdb
